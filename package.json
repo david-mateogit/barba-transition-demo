@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/david-mateogit/barba-transition-demo/issues"
   },
-  "homepage": "https://github.com/david-mateogit/barba-transition-demo#readme"
+  "homepage": "https://github.com/david-mateogit/barba-transition-demo#readme",
+  "dependencies": {}
 }
